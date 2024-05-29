@@ -1,3 +1,6 @@
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" /></p>
+ 
 <h1 align="center">Hi 👋, I'm Muhammad Talha</h1>
 <h3 align="center">Passionate to learn Data Science & Machine Learning</h3>
 
